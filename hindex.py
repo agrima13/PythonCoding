@@ -6,18 +6,21 @@
 # For example If my array has 1,4,1,4,2,1,3,5,6 citations then here there are atleast 4 papers that have been cited 4 times.
 # Hence the Hindex = 4
 
+def hIndex(citations):
+    """
+    :type citations: List[int]
+    :rtype: int
+    """
+    citations.sort()
+    n = len(citations)
+    for i,c in enumerate(citations):
+        if c >= n - i:
+            return n - i
+    return 0
+
+
 arr = [1,4,1,4,2,1,3,5,6]
-j = 0
-ans = 0
-count = 0
+print(hIndex(arr))
 
-for i in range(len(arr)):
-    count = 0
-    for j in range(len(arr)):
-        if arr[j] >= arr[i]:
-            count = count + 1
-
-    if(arr[i] == count):
-        h_index = arr[i]
-
-print("The H Index is", h_index)
+## Time Complexity here is O(nlogn)
+## Space Complexity O(1)
