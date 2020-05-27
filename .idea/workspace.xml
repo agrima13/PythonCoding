@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53353d97-6de4-4488-b195-fcdd0bf423a2" name="Default Changelist" comment="" />
+    <list default="true" id="53353d97-6de4-4488-b195-fcdd0bf423a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse_String-I.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/Reverse_String-I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse_String-II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/Reverse_String-II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse_String-III.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/Reverse_String-III.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/StringPractice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hindex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/hindex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maketrans_delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/maketrans_delete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maketrans_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/maketrans_example.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +20,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hindex.py">
+        <entry file="file://$PROJECT_DIR$/Arrays/hindex.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
@@ -23,13 +32,13 @@
         <entry file="file://$PROJECT_DIR$/TwoSum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StringPractice.py">
+        <entry file="file://$PROJECT_DIR$/Strings/StringPractice.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
@@ -38,7 +47,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Reverse_String-I.py">
+        <entry file="file://$PROJECT_DIR$/Strings/Reverse_String-I.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="28" selection-start-column="28" selection-end-column="28" />
@@ -47,7 +56,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Reverse_String-II.py">
+        <entry file="file://$PROJECT_DIR$/Strings/Reverse_String-II.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
@@ -56,7 +65,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maketrans_example.py">
+        <entry file="file://$PROJECT_DIR$/Strings/maketrans_example.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret lean-forward="true" />
@@ -65,7 +74,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maketrans_delete.py">
+        <entry file="file://$PROJECT_DIR$/Strings/maketrans_delete.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
@@ -74,7 +83,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Reverse_String-III.py">
+        <entry file="file://$PROJECT_DIR$/Strings/Reverse_String-III.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
@@ -125,6 +134,11 @@
             <path>
               <item name="PythonCoding" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonCoding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonCoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonCoding" type="462c0819:PsiDirectoryNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -183,7 +197,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reverse_String-I.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/Reverse_String-I.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +218,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringPractice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/StringPractice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +239,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maketrans_delete.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/maketrans_delete.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +260,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maketrans_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/maketrans_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,17 +329,17 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Reverse_String-II.py</url>
+          <url>file://$PROJECT_DIR$/Strings/Reverse_String-II.py</url>
           <line>3</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Reverse_String-II.py</url>
+          <url>file://$PROJECT_DIR$/Strings/Reverse_String-II.py</url>
           <line>4</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Reverse_String-II.py</url>
+          <url>file://$PROJECT_DIR$/Strings/Reverse_String-II.py</url>
           <line>5</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
@@ -333,7 +347,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hindex.py">
+    <entry file="file://$PROJECT_DIR$/Arrays/hindex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
@@ -343,42 +357,42 @@
     <entry file="file://$PROJECT_DIR$/Reverse_Inplace.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/maketrans_example.py">
+    <entry file="file://$PROJECT_DIR$/Strings/maketrans_example.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maketrans_delete.py">
+    <entry file="file://$PROJECT_DIR$/Strings/maketrans_delete.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Reverse_String-I.py">
+    <entry file="file://$PROJECT_DIR$/Strings/Reverse_String-I.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="28" selection-start-column="28" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Reverse_String-II.py">
+    <entry file="file://$PROJECT_DIR$/Strings/Reverse_String-II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Reverse_String-III.py">
+    <entry file="file://$PROJECT_DIR$/Strings/Reverse_String-III.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StringPractice.py">
+    <entry file="file://$PROJECT_DIR$/Strings/StringPractice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
@@ -388,7 +402,7 @@
     <entry file="file://$PROJECT_DIR$/TwoSum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
     </entry>
